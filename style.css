@@ -1,0 +1,100 @@
+/*{cursor: url(library/cursors/sunemoji.png), default;}*/
+
+body {
+  background-color: hsl(200, 70%, 75%);
+  font-family: "Helvetica", sans-serif;
+  font-size: 18px;
+}
+
+p{
+  color: #ffffff;
+}
+
+h1 {
+  text-align: center;
+  letter-spacing: 0.2em;
+  line-height: 180px;
+}
+
+/* unvisited link */
+a:link {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: hsl(200, 70%, 75%);
+  text-decoration: none;
+  /*cursor: url(library/cursors/moonemoji.png), pointer;*/
+}
+
+/* selected link */
+a:active {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.marquee span:hover{
+    animation-play-state: paused;
+    cursor: pointer;
+}
+
+/* header */
+.marquee {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    width: 100%;
+    margin: 0 auto;
+    white-space: nowrap;
+    overflow: hidden;
+    box-sizing: border-box;
+    background: #ffffff;
+
+    font-size: 30px;
+    letter-spacing: 0.2em;
+    line-height: 70px;
+    z-index: 99999999;
+}
+.marquee span {
+    display: inline-block;
+    will-change: transform;
+    animation: marquee 15s linear infinite;
+}
+@keyframes marquee {
+    0% {
+        transform: translate(0%, 0);
+    }
+    100% {
+        transform: translate(-30%, 0);
+    }
+}
+
+.visually-hidden {
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+}
+
+img{
+  vertical-align: top;
+}
+.imgs{
+  font-size: 0;
+}
+
+#title{
+  color: #ffffff;
+}
