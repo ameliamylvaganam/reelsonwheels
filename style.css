@@ -1,52 +1,52 @@
-/*{cursor: url(library/cursors/sunemoji.png), default;}*/
+*{cursor: url(library/happyfrog.png), default;}
 
+/* MAIN PG */
 body {
   background-color: hsl(200, 70%, 75%);
   font-family: "Helvetica", sans-serif;
-  font-size: 18px;
-}
+  margin: 30px;
+  margin-top: 100px;}
 
-p{
-  color: #ffffff;
-}
+/* blog post */
+#title{
+  color: #000000;
+  letter-spacing: 0.1em;
+  font-size: 18px;}
+#heading{ /*incl date and location*/
+  color: hsl(0, 70%, 50%); /*accent red from about pg*/
+  font-size: 14px;}
+#text{ /*incl date and location*/
+  color: #000000; /*accent red from about pg*/
+  font-size: 14px;}
 
-h1 {
-  text-align: center;
-  letter-spacing: 0.2em;
-  line-height: 180px;
-}
+/* img */
+img{
+  width: 200px;
+  height: 150px;}
 
+/* LINKS */
 /* unvisited link */
 a:link {
   color: #ffffff;
-  text-decoration: none;
-}
-
+  text-decoration: none;}
 /* visited link */
 a:visited {
   color: #ffffff;
-  text-decoration: none;
-}
-
+  text-decoration: none;}
 /* mouse over link */
 a:hover {
   color: hsl(200, 70%, 75%);
   text-decoration: none;
-  /*cursor: url(library/cursors/moonemoji.png), pointer;*/
-}
-
+  cursor: url(library/crosseyefrog.png), pointer;}
 /* selected link */
 a:active {
   color: #ffffff;
-  text-decoration: none;
-}
+  text-decoration: none;}
 
+/* MARQUEE */
 .marquee span:hover{
     animation-play-state: paused;
-    cursor: pointer;
-}
-
-/* header */
+    cursor: pointer;}
 .marquee {
     position: absolute;
     top: 0;
@@ -62,22 +62,14 @@ a:active {
     font-size: 30px;
     letter-spacing: 0.2em;
     line-height: 70px;
-    z-index: 99999999;
-}
+    z-index: 99999999;}
 .marquee span {
     display: inline-block;
     will-change: transform;
-    animation: marquee 15s linear infinite;
-}
+    animation: marquee 30s linear infinite;}
 @keyframes marquee {
-    0% {
-        transform: translate(0%, 0);
-    }
-    100% {
-        transform: translate(-30%, 0);
-    }
-}
-
+    0% {transform: translate(0%, 0);}
+    100% {transform: translate(-30%, 0);}}
 .visually-hidden {
     clip: rect(0 0 0 0);
     clip-path: inset(50%);
@@ -85,16 +77,4 @@ a:active {
     overflow: hidden;
     position: absolute;
     white-space: nowrap;
-    width: 1px;
-}
-
-img{
-  vertical-align: top;
-}
-.imgs{
-  font-size: 0;
-}
-
-#title{
-  color: #ffffff;
-}
+    width: 1px;}
