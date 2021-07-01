@@ -5,7 +5,7 @@ let data = {
             "title": "the bull painting",
             "date": "30 june 2021",
             "location": "st. louis, mo",
-            "text": "today, we went to a rad barbecue joint. st. louis is famous for their barbecue, and our stummies were happy. plus, a little gem fell upon us, graced our eyes and hearts: a painting of a bull, not a few feet from us . . . how sublime! it was colorful and sweet. the bull's face was shy but charming . . . <i>the vision still lingers</i>. anywhomst, we were in a bit of a slump, then the bull and the grass singlehandedly shook us! we recreated the bull's pose. feast your eyes! <br><br><img src = 'library/lizbull.jpg'> <img src = 'library/ameliabull.jpg'>"
+            "text": "today, we went to a rad barbecue joint. st. louis is famous for their barbecue, and our stummies were happy. plus, a little gem fell upon us, graced our eyes and hearts: a painting of a bull, not a few feet from us . . . how sublime! it was colorful and sweet. the bull's face was shy but charming . . . <i>the vision still lingers</i>. anywhomst, we were in a bit of a slump, then the bull and the grass singlehandedly shook us! we recreated the bull's pose. feast your eyes! <br><br><img src = 'library/lizbull.jpg' alt='eliza tilts head to the side and looks directly at camera'> <img src = 'library/ameliabull.jpg' alt='amelia tilts head to the side and looks directly at camera'>"
         },
     ]
 };
