@@ -11,7 +11,7 @@ let data = {
             "title": "daphne",
             "date": "1 july 2021",
             "location": "st. louis, mo: saint louis art museum",
-            "text": "we enter a gallery room at the SLAM. 'sketching!' says Eliza. a lady is standing in front of a dark sculpture with a notepad in hand. her pencilstrokes are swift."
+            "text": "we enter a gallery room at the SLAM. 'sketching!' says Eliza. a woman stands in front of a dark sculpture with a notepad in hand. her pencilstrokes are swift."
         },
         {
             "title": "bricks on bricks on bricks on bricks on bricks on bricks on bricks on bricks on bricks on bric",
