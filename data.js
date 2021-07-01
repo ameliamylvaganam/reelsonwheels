@@ -1,5 +1,5 @@
 let data = {
-    "about": "howdy all, wazzup <b>;-)</b><br> it's Amelia (she/her) and Eliza (she/her) here. this is our introduction.<br><br> we're currently on a six-week road trip across the united states, for the making of a documentary and also good times. our doc is about memories that people associate with food and food that people associate with memories. here is our ★fansite★ so you can keep track of us.<br><br> see you when we see you~<br> <i>AMELIZA</i>",
+    "about": "howdy all, wazzup <b>;-)</b><br> it's Amelia (she/her) and Eliza (she/her) here. this is our introduction.<br><br> we're currently on a six-week road trip across the united states, for the making of a documentary and also good times. our doc is about memories that people associate with food and food that people associate with memories. here is our ★fansite★ so you can keep track of us.<br><br> see you when we see you~<br> <i>AMELIZA</i> <br><br> aaand check out a sister project twitterbot that Amelia made  ~~ <a id='aboutlink' target='_blank' href='https://www.twitter.com/foodmemorybot'>@foodmemorybot</a>",
     "posts":[
         {
             "title": "the bull painting",
