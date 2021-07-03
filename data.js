@@ -24,5 +24,6 @@ let data = {
             "date": "2 july 2021",
             "location": "st. louis, mo: tower grove south",
             "text": "donuts, coffee, and toasted rav filled our last morning in st. louis. we also met a fellow cool pair: athens and auggie. ('big dog, little dog!') special thanks to the chung family for being such lovely hosts during our entire stay. an amazing first stop . . . <i>wowza</i>!" 
+        }
     ]
 };
