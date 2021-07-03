@@ -19,5 +19,10 @@ let data = {
             "location": "st. louis, mo: tower grove south",
             "text": "we walked today more than we have in quite some time, and our path was filled with . . . brick. it surrounded us during our short time here in st. louis! the walk to tea was hot and hard, the walk back a little friendlier. Amelia saw a footprint in the concrete. the man at the mall restuarant gave us two (2) packets of soy sauce, free of charge but certainly not free of kindness."
         },
+        {
+            "title": "a child wearing sunglasses in a pull wagon",
+            "date": "2 july 2021",
+            "location": "st. louis, mo: tower grove south",
+            "text": "donuts, coffee, and toasted rav filled our last morning in st. louis. we also met a fellow cool pair: athens and auggie. ('big dog, little dog!') special thanks to the chung family for being such lovely hosts during our entire stay. an amazing first stop . . . <i>wowza</i>!" 
     ]
 };
