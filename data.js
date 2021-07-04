@@ -31,5 +31,11 @@ let data = {
             "location": "burlington, co: burlington inn",
             "text": "video game clouds - wahoo! today's drive was a hot one with wheelies struggling to conk out any a/c. our motel reservation fell through, but we last-minute got a room at another one with the most biggest giantest tv ever... that tragically doesn't have our show on it. we're turning in for the night with our cup noodles. seeya in boulder~~~"
         },
+        {
+            "title": "sunflowers on the side of the highway and other things we'll forget",
+            "date": "4 july 2021",
+            "location": "burlington, co --> boulder, co",
+            "text": "here in dioramaland we see so many sights<br>with the knowledge that someday we might<br>forget our stories, our towns, our own names<br>I hope when it happens we're far from the same"
+        },
     ]
 };
