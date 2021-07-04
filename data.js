@@ -24,6 +24,12 @@ let data = {
             "date": "2 july 2021",
             "location": "st. louis, mo: tower grove south",
             "text": "donuts, coffee, and toasted rav filled our last morning in st. louis. we also met a fellow cool pair: athens and auggie. ('big dog, little dog!') special thanks to the chung family for being such lovely hosts during our entire stay. an amazing first stop . . . <i>wowza</i>!" 
-        }
+        },
+        {
+            "title": "kanorado",
+            "date": "3 july 2021",
+            "location": "burlington, co: burlington stay inn",
+            "text": "video game clouds - wahoo! today's drive was a hot one with wheelies struggling to conk out any a/c. our motel reservation fell through, but we last-minute got a room at another one with the most biggest giantest tv ever... that tragically doesn't have our show on it. we're turning in for the night with our cup noodles. seeya in boulder~~~"
+        },
     ]
 };
