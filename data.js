@@ -35,7 +35,7 @@ let data = {
             "title": "sunflowers on the side of the highway and other things we'll forget",
             "date": "4 july 2021",
             "location": "burlington, co --> boulder, co",
-            "text": "here in dioramaland we see so many sights<br>with the knowledge that someday we might<br>forget our stories, our towns, our own names<br>I hope when it happens we're far from the same"
+            "text": "here in diorama-land we see so many sights<br>knowing in our heart of hearts that someday we just might<br>forget all our stories and our towns and our own names<br>I hope that when it happens we are both far from the same"
         }, 
         {
             "title": "jo and athen(s/a)",
