@@ -36,6 +36,12 @@ let data = {
             "date": "4 july 2021",
             "location": "burlington, co --> boulder, co",
             "text": "here in dioramaland we see so many sights<br>with the knowledge that someday we might<br>forget our stories, our towns, our own names<br>I hope when it happens we're far from the same"
+        }, 
+        {
+            "title": "jo and athen(s/a)",
+            "date": "4 july 2021",
+            "location": "boulder, co: safeway",
+            "text": "another hot drive, but another rewarding one. we're now over a mile high! and to top it off we met some unfamiliar faces with some familiar names: joli and athena. we stayed with a joely in st. louis . . . joli helped us today at the safeway checkout. athens is one cool dog . . . so is athena. the world feels both small and big."
         },
     ]
 };
