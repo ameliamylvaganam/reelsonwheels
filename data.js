@@ -40,7 +40,7 @@ let data = {
         {
             "title": "jo and athen(s/a)",
             "date": "4 july 2021",
-            "location": "boulder, co: safeway",
+            "location": "boulder, co: backyard with a trellis",
             "text": "another hot drive, but another rewarding one. we're now over a mile high! and to top it off we met some unfamiliar faces with some familiar names: joli and athena. we stayed with a joely in st. louis . . . joli helped us today at the safeway checkout. athens is one cool dog . . . so is athena. the world feels both small and big."
         },
     ]
