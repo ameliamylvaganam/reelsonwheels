@@ -43,5 +43,11 @@ let data = {
             "location": "boulder, co: backyard with a trellis",
             "text": "another hot drive, but another rewarding one. we're now over a mile high! and to top it off we met some unfamiliar faces with some familiar names: joli and athena. we stayed with a joely in st. louis . . . joli helped us today at the safeway checkout. athens is one cool dog . . . so is athena. the world feels both small and big."
         },
+        {
+            "title": "mystery came and went",
+            "date": "5 july 2021",
+            "location": "boulder, co: a chilly basement",
+            "text": "a very calm day . . . less active than pretty much every other we've had so far. on this couch we watch tv and eat chocolate and i'm satisfied."
+        },
     ]
 };
