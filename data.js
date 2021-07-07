@@ -49,5 +49,11 @@ let data = {
             "location": "boulder, co: a chilly basement",
             "text": "a very calm day . . . less active than pretty much every other we've had so far. on this couch we watch tv and eat chocolate and i'm satisfied."
         },
+        {
+            "title": "this sunny morning",
+            "date": "7 july 2021",
+            "location": "boulder, co: next to two napping dogs",
+            "text": "we made (blueberry) pancakes and breakfast sausages that we ate outside (!). talk of the future can be scary even if that future is two months away. a late start and a full stomach makes me want to slump down on the cool tile."
+        },
     ]
 };
