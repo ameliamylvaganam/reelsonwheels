@@ -53,7 +53,7 @@ let data = {
             "title": "this sunny morning",
             "date": "7 july 2021",
             "location": "boulder, co: next to two napping dogs",
-            "text": "we made (blueberry) pancakes and breakfast sausages that we ate outside (!). talk of the future can be scary even if that future is two months away. a late start and a full stomach makes me want to slump down on the cool tile."
+            "text": "we made (blueberry) pancakes and breakfast sausages, then we ate outside (!). talk of the future can be scary even if that future is two months away. a late start and a full stomach makes me want to slump down on the cool tile . . ."
         },
     ]
 };
