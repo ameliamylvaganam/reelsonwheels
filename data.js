@@ -55,5 +55,11 @@ let data = {
             "location": "boulder, co: next to two napping dogs",
             "text": "we made (blueberry) pancakes and breakfast sausages, then we ate outside (!). talk of the future can be scary even if that future is two months away. a late start and a full stomach makes me want to slump down on the cool tile . . ."
         },
+        {
+            "title": "coping mechanisms of the supernatural variety by Avra Margariti",
+            "date": "8 july 2021",
+            "location": "boulder, co: my own room",
+            "text": "on saturday, back in Wichita, the coffee shop had a little short story dispenser from their public library. today, on thursday, I look at my nightstand and see the poem Eliza was dispensed, folded in half. previous stops of this trip stick with me, and so will this one."
+        },
     ]
 };
