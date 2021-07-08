@@ -61,5 +61,11 @@ let data = {
             "location": "boulder, co: my own room",
             "text": "on saturday, back in Wichita, the coffee shop had a little short story dispenser from their public library. today, on thursday, I look at my nightstand and see the poem Eliza was dispensed, folded in half. previous stops of this trip stick with me, and so will this one."
         },
+        {
+            "title": "grocery list",
+            "date": "8 july 2021",
+            "location": "lafayette, co: walmart",
+            "text": "grapes<br>1 banana<br>watch<br>pickles?"
+        },
     ]
 };
