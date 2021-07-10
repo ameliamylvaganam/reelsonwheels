@@ -53,7 +53,7 @@ let data = {
             "title": "this sunny morning",
             "date": "7 july 2021",
             "location": "boulder, co: next to two napping dogs",
-            "text": "we made (blueberry) pancakes and breakfast sausages, then we ate outside (!). talk of the future can be scary even if that future is two months away. a late start and a full stomach makes me want to slump down on the cool tile . . ."
+            "text": "we made (blueberry) pancakes and breakfast sausages, then we ate outside! talk of the future can be scary even if that future is two months away. a late start and a full stomach makes me want to slump down on the cool tile . . ."
         },
         {
             "title": "coping mechanisms of the supernatural variety by Avra Margariti",
@@ -66,6 +66,12 @@ let data = {
             "date": "8 july 2021",
             "location": "lafayette, co: walmart",
             "text": "grapes<br>1 banana<br>watch<br>pickles?"
+        },
+        {
+            "title": "grocery list",
+            "date": "9 july 2021",
+            "location": "boulder, co: oak at fourteenth",
+            "text": "i woke up full, after a swanky dinner downtown last night. we've been met with so much generosity during our trip! i broke a small sweat checking out good ol' wheelies and trying to work off some of the yums. hehe"
         },
     ]
 };
