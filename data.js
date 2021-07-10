@@ -68,7 +68,7 @@ let data = {
             "text": "grapes<br>1 banana<br>watch<br>pickles?"
         },
         {
-            "title": "grocery list",
+            "title": "compliments of greg",
             "date": "9 july 2021",
             "location": "boulder, co: oak at fourteenth",
             "text": "i woke up full, after a swanky dinner downtown last night. we've been met with so much generosity during our trip! i broke a small sweat checking out good ol' wheelies and trying to work off some of the yums. hehe"
