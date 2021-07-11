@@ -70,8 +70,14 @@ let data = {
         {
             "title": "compliments of greg",
             "date": "9 july 2021",
-            "location": "boulder, co: oak at fourteenth",
-            "text": "i woke up full, after a swanky dinner downtown last night. we've been met with so much generosity during our trip! i broke a small sweat checking out good ol' wheelies and trying to work off some of the yums. hehe"
+            "location": "boulder, co: oak on fourteenth",
+            "text": "i woke up full, after a swanky dinner downtown last night. we've been met with so much generosity during our trip! i broke a small sweat while checking out good ol' wheelies and trying to work off some of the yums. hehe"
+        },
+        {
+            "title": "the mountains, the sun, the world, oh my!",
+            "date": "10 july 2021",
+            "location": "pleasant view, co: on the top of the world",
+            "text": "the deer dancing in the fields don't know what they're doing to us . . ."
         },
     ]
 };
