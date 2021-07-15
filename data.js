@@ -68,7 +68,7 @@ let data = {
             "text": "grapes<br>1 banana<br>watch<br>pickles?"
         },
         {
-            "title": "compliments of greg",
+            "title": "compliments of craig/greg",
             "date": "9 july 2021",
             "location": "boulder, co: oak on fourteenth",
             "text": "i woke up full, after a swanky dinner downtown last night. we've been met with so much generosity during our trip! i broke a small sweat while checking out good ol' wheelies and trying to work off some of the yums. hehe"
@@ -78,6 +78,12 @@ let data = {
             "date": "10 july 2021",
             "location": "pleasant view, co: on the top of the world",
             "text": "the deer dancing in the fields don't know what they're doing to us . . ."
+        },
+        {
+        "title": "i'm thinking of peter the cat",
+            "date": "15 july 2021",
+            "location": "los angeles, ca: a table with a teal umbrella",
+            "text": "it's been so long since we last blogged! a lot has happened in the past five days, and we've miraculously teleported to the city of stars. it feels like a different place from where we've been and where we're going."
         },
     ]
 };
