@@ -85,5 +85,11 @@ let data = {
             "location": "los angeles, ca: a table with a teal umbrella",
             "text": "it's been so long since we last blogged! a lot has happened in the past five days, and we've miraculously teleported to the city of stars. it feels like a different place from where we've been and where we're going."
         },
+        {
+        "title": "double chocolate chip cookies",
+            "date": "17 july 2021",
+            "location": "los angeles, ca: dg's house",
+            "text": "last night we baked double chocolate chip cookies with regular-sized and mini chocolate chips. above all, we danced and sang in the wooden kitchen. reminds me of something... another time, another place."
+        },
     ]
 };
