@@ -91,5 +91,11 @@ let data = {
             "location": "los angeles, ca: dg's house",
             "text": "last night we baked double chocolate chip cookies with regular-sized and mini chocolate chips. above all, we danced and sang in the wooden kitchen. reminds me of something... another time, another place."
         },
+        {
+        "title": "skateaway",
+            "date": "19 july 2021",
+            "location": "los angeles, ca: the same three streets",
+            "text": "it's a funny thing to skate around a neighborhood that isn't mine. because after just a few rides, it's started to feel a bit like mine. a brown dog really seems to like my board. two ladies wearing hats chat as they powerwalk along. an older gentleman strolls with his hands behind his back. he stops, smiles, and gives me a little wave. i say 'howdy' and he says 'hiya.' i have a feeling i won't see him again."
+        },
     ]
 };
