@@ -74,7 +74,7 @@ let data = {
             "text": "i woke up full, after a swanky dinner downtown last night. we've been met with so much generosity during our trip! i broke a small sweat while checking out good ol' wheelies and trying to work off some of the yums. hehe"
         },
         {
-            "title": "the mountains, the sun, the world, oh my!",
+            "title": "the mountains, the sun, the sky, oh my!",
             "date": "10 july 2021",
             "location": "pleasant view, co: on the top of the world",
             "text": "the deer dancing in the fields don't know what they're doing to us . . ."
@@ -96,6 +96,12 @@ let data = {
             "date": "19 july 2021",
             "location": "los angeles, ca: the same three streets",
             "text": "it's a funny thing to skate around a neighborhood that isn't mine because after just a few rides, it feels familiar. a very brown dog really likes my board. two ladies wearing hats chat as they powerwalk along. an older gentleman strolls with his hands behind his back. he stops, smiles, and gives me a little wave. i say 'howdy' and he says 'hiya.' but i probably won't see him again."
+        },
+        {
+        "title": "new intimacy achievement: unlocked!",
+            "date": "20 july 2021",
+            "location": "los angeles, ca: our borrowed room",
+            "text": "living on the road <i>together</i> has gone pretty smoothly, over three weeks into this journey. yes, i'm changing."
         },
     ]
 };
