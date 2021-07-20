@@ -95,7 +95,7 @@ let data = {
         "title": "skateaway",
             "date": "19 july 2021",
             "location": "los angeles, ca: the same three streets",
-            "text": "it's a funny thing to skate around a neighborhood that isn't mine because after just a few rides, it feels familiar. a brown dog really seems to like my board. two ladies wearing hats chat as they powerwalk along. an older gentleman strolls with his hands behind his back. he stops, smiles, and gives me a little wave. i say 'howdy' and he says 'hiya.' but i have a feeling i won't see him again."
+            "text": "it's a funny thing to skate around a neighborhood that isn't mine because after just a few rides, it feels familiar. a very brown dog really likes my board. two ladies wearing hats chat as they powerwalk along. an older gentleman strolls with his hands behind his back. he stops, smiles, and gives me a little wave. i say 'howdy' and he says 'hiya.' but i probably won't see him again."
         },
     ]
 };
