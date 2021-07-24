@@ -101,7 +101,7 @@ let data = {
         "title": "new intimacy achievement: unlocked!",
             "date": "20 july 2021",
             "location": "los angeles, ca: our borrowed room",
-            "text": "living on the road <i>together</i> has gone pretty smoothly, over three weeks into this journey. yes, i'm changing."
+            "text": "living on the road <i>together</i> has gone pretty smoothly, over three weeks into this journey. <a href="https://open.spotify.com/track/0xtIp0lgccN85GfGOekS5L?si=96989dd2c8534947">yes, i'm changing.</a>"
         },
     ]
 };
