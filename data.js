@@ -101,12 +101,12 @@ let data = {
         "title": "new intimacy achievement: unlocked!",
             "date": "20 july 2021",
             "location": "los angeles, ca: our borrowed room",
-            "text": "living on the road <i>together</i> has gone pretty smoothly, over three weeks into this journey. <a href='https://open.spotify.com/track/0xtIp0lgccN85GfGOekS5L?si=96989dd2c8534947'>yes, i'm changing.</a>"
+            "text": "living on the road <i>together</i> has gone pretty smoothly, over three weeks into this journey. <a target='_blank' href='https://open.spotify.com/track/0xtIp0lgccN85GfGOekS5L?si=96989dd2c8534947'>yes, i'm changing.</a>"
         },
         {
         "title": "list of recent sices",
             "date": "24 july 2021",
-            "location": "san francisco, ca: <a href='https://open.spotify.com/track/1LtJvmPb3gtY6Epdj3VmL9?si=7d19c479913f4961'>coolest place in the world</a>",
+            "location": "san francisco, ca: <a target='_blank' href='https://open.spotify.com/track/1LtJvmPb3gtY6Epdj3VmL9?si=7d19c479913f4961'>coolest place in the world</a>",
             "text": "fruit stand bargain bin - oranges, peaches, strawberries, oh my!<br>perfume testers - one musky woods and one tropical fruit (guess who)<br>dark chocolate sea salt caramel squares with our postcard purchases"
         },
     ]
