@@ -107,7 +107,7 @@ let data = {
         "title": "list of recent sices",
             "date": "24 july 2021",
             "location": "san francisco, ca: <a href='https://open.spotify.com/track/1LtJvmPb3gtY6Epdj3VmL9?si=7d19c479913f4961'>coolest place in the world</a>",
-            "text": "fruit stand bargain bin - oranges, peaches, strawberries, oh my!<br>perfume testers - one musky woods and one tropical fruit (guess who)<br>free chocolate squares (dark choc sea salt caramel . . .) from the bookstore"
+            "text": "fruit stand bargain bin - oranges, peaches, strawberries, oh my!<br>perfume testers - one musky woods and one tropical fruit (guess who)<br>dark chocolate sea salt caramel squares with our postcard purchases"
         },
     ]
 };
