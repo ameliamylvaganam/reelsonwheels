@@ -107,7 +107,7 @@ let data = {
         "title": "list of recent sices",
             "date": "24 july 2021",
             "location": "san francisco, ca",
-            "text": "gilroy, ca fruit stand bargain bin - oranges, peaches, strawberries, oh my!<br>sanfran mission district perfume testers - one musky woods and one tropical fruit (guess who)<br>free chocolate squares (dark choc sea salt caramel . . .) from the bookstore"
+            "text": "fruit stand bargain bin - oranges, peaches, strawberries, oh my!<br>perfume testers - one musky woods and one tropical fruit (guess who)<br>free chocolate squares (dark choc sea salt caramel . . .) from the bookstore"
         },
     ]
 };
