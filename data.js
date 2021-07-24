@@ -103,5 +103,11 @@ let data = {
             "location": "los angeles, ca: our borrowed room",
             "text": "living on the road <i>together</i> has gone pretty smoothly, over three weeks into this journey. <a href='https://open.spotify.com/track/0xtIp0lgccN85GfGOekS5L?si=96989dd2c8534947'>yes, i'm changing.</a>"
         },
+        {
+        "title": "list of recent sices",
+            "date": "24 july 2021",
+            "location": "san francisco, ca",
+            "text": "gilroy, ca fruit stand bargain bin - oranges, peaches, strawberries, oh my!<br>sanfran mission district perfume testers - one musky woods and one tropical fruit (guess who!)<br>free chocolate squares (dark choc sea salt caramel...🤤) from the bookstore with our postcard purchases"
+        },
     ]
 };
