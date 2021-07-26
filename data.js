@@ -109,5 +109,11 @@ let data = {
             "location": "san francisco, ca: <a target='_blank' href='https://open.spotify.com/track/1LtJvmPb3gtY6Epdj3VmL9?si=7d19c479913f4961'>coolest place in the world</a>",
             "text": "fruit stand bargain bin - oranges, peaches, strawberries, oh my!<br>perfume testers - one musky woods and one tropical fruit (guess who)<br>dark chocolate sea salt caramel squares with our postcard purchases"
         },
+        {
+        "title": "twenty-six steps",
+            "date": "26 july 2021",
+            "location": "santa rosa, ca: crooks coffee",
+            "text": "yesterday we spent hours on orgiami. it reminded me of dry fried rice . . . i had almost forgotten about that. we left the animals, but a hatred of reverse-folds remains in my heart."
+        },
     ]
 };
