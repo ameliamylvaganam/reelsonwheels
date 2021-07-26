@@ -115,5 +115,11 @@ let data = {
             "location": "santa rosa, ca: crooks coffee",
             "text": "yesterday we spent hours on orgiami. it reminded me of dry fried rice . . . i had almost forgotten about that. we left the animals, but a hatred of reverse-folds remains in my heart."
         },
+        {
+        "title": "from someone pro-reverse-folds",
+            "date": "26 july 2021",
+            "location": "santa rosa, ca: crooks coffee",
+            "text": "personally I like reverse folds."
+        },
     ]
 };
