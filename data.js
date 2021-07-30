@@ -121,5 +121,10 @@ let data = {
             "location": "santa rosa, ca: crooks coffee",
             "text": "personally I like reverse folds."
         },
+        {
+        "title": "the lady at the donut shop said 'have a good day' and i feel i did",
+            "date": "29 july 2021",
+            "location": "portland, or: 'sleeping at last'",
+            "text": "the longest and second to last drive of our roadtrip was a pleasant one . . . talking and listening and laughing for hours makes me nostalgic! for the present! i'd like to think that means i'm cherishing the current moment. but who's to say!"
     ]
 };
