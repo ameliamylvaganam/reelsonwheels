@@ -126,5 +126,6 @@ let data = {
             "date": "29 july 2021",
             "location": "portland, or: 'sleeping at last'",
             "text": "the longest and second to last drive of our roadtrip was a pleasant one . . . talking and listening and laughing for hours makes me nostalgic! for the present! i'd like to think that means i'm cherishing the current moment. but who's to say!"
+        },
     ]
 };
