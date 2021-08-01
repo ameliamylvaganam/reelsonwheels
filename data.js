@@ -131,7 +131,7 @@ let data = {
         "title": "CHILLIN!!!",
             "date": "31 july 2021",
             "location": "portland, or",
-            "text": "blog blog blog<br>blog blog blog<br>blog blog blog blog"
+            "text": "blog blog blog blog blog<br>blog blog blog blog blog blog blog<br>blog blog blog blog blog"
         },
     ]
 };
