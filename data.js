@@ -127,5 +127,11 @@ let data = {
             "location": "portland, or: 'sleeping at last'",
             "text": "the longest and second to last drive of our roadtrip was a pleasant one . . . talking and listening and laughing for hours makes me nostalgic! for the present! i'd like to think that means i'm cherishing the current moment. but who's to say!"
         },
+        {
+        "title": "CHILLIN!!!",
+            "date": "31 july 2021",
+            "location": "portland, or",
+            "text": "blog blog blog<br>blog blog blog<br>blog blog blog blog"
+        },
     ]
 };
