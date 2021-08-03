@@ -139,5 +139,11 @@ let data = {
             "location": "portland, or: daily dose division",
             "text": "a cat . . . standing . . . like a human. mmmm . . . ."
         },
+        {
+        "title": "two (2) safeways",
+            "date": "2 august 2021",
+            "location": "renton, wa: safeway and safeway",
+            "text": "mac and cheese and veggies, omelettes, salad . . . a kitchen to hunker down in! the high life."
+        },
     ]
 };
