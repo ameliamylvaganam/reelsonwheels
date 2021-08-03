@@ -36,7 +36,7 @@ let data = {
             "date": "4 july 2021",
             "location": "burlington, co --> boulder, co",
             "text": "here in diorama-land we see so many sights<br>we drive and drive and know inside that someday we just might<br>forget all of our stories and our towns and our own names<br>I hope that when it happens we are both far from the same"
-        }, 
+        },
         {
             "title": "jo and athen(s/a)",
             "date": "4 july 2021",
@@ -144,6 +144,12 @@ let data = {
             "date": "2 august 2021",
             "location": "renton, wa: safeway and safeway",
             "text": "mac and cheese and veggies, omelettes, salad . . . a kitchen to hunker down in! the high life."
+        },
+        {
+        "title": "we're being followed D:",
+            "date": "3 august 2021",
+            "location": "seattle, wa: espresso vivace",
+            "text": "six days ago we thrived in the Castro district in San Francisco, wandered past the famous Castro Theatre. what a sight. here in this coffee shop, there is a painting of its large billboard sign. what a sight! how connected our little big world is."
         },
     ]
 };
