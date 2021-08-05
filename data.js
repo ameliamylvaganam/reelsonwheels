@@ -155,7 +155,7 @@ let data = {
         "title": "CD central",
             "date": "4 august 2021",
             "location": "seattle, wa: pike place market",
-            "text": "music has been a big part of our journey. with dongles absent, we listen to wheelies' six-slot selection. aaaand we acquired four more CDs at the market today. exciting new tunes to look forward to."
+            "text": "music has been a big part of our journey. with dongles absent, we listen to wheelies' six-slot selection. aaaand we acquired four more CDs at the market today. new tunes to look forward to! sometime soon."
         },
     ]
 };
