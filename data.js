@@ -151,5 +151,11 @@ let data = {
             "location": "seattle, wa: espresso vivace",
             "text": "six days ago we thrived in the Castro district in San Francisco, wandered past the famous Castro Theatre. what a sight. here in this coffee shop, there is a painting of its large billboard sign. what a sight! how connected our little big world is."
         },
+        {
+        "title": "CD central",
+            "date": "4 august 2021",
+            "location": "seattle, wa: pike place market",
+            "text": "music has been a big part of our journey. with dongles absent, we listen to wheelies' six-slot selection. aaaand we acquired four more CDs at the market today. exciting new tunes to look forward to."
+        },
     ]
 };
