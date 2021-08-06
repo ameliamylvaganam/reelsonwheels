@@ -157,5 +157,11 @@ let data = {
             "location": "seattle, wa: pike place market",
             "text": "music has been a big part of our journey. with dongles absent, we listen to wheelies' six-slot selection. aaaand we acquired four more CDs at the market today. new tunes to look forward to! sometime soon."
         },
+        {
+        "title": "moving with the current",
+            "date": "6 august 2021",
+            "location": "seattle, wa: anchorhead coffee",
+            "text": "there are lots of things that i think to blog about and lots of things that i forget about completely. yesterday, there were so many wonderful moments . . . it was a full day, and a fulfilling one. i'm glad i was able to spend it with you. :P"
+        },
     ]
 };
