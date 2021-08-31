@@ -169,5 +169,11 @@ let data = {
             "location": "seattle, wa: anchorhead coffee",
             "text": "feeling: immense gratitude. thank you to the chungs, lauren and family, jim, del and family, mega, rajan and quee lan, kahsaia and breanna and the boys, claire, idlib, teresa. THANK YOU ASHER. it's our final full day. we depart tomorrow. six weeks ending makes me heart hurt. <i>im glad I was able to spend it with you, too.</i> thank you to the nice guy on the street who told us we should really learn how to stop on our boards. you're right and we will. <3<br><br>(but it's not over yet.. we still have shakespeare in the park and 小笼包 and good company to look forward to)"
         },
+        {
+        "title": "shoutout to the two (2) poc we met at the comfort inn, potentially the only poc in all of north dakota",
+            "date": "30 august 2021",
+            "location": "dickinson, nd",
+            "text": "right now one of us is in a v state and the other just left a v city. we'll let you guess who's who . . . lots of love from the road back <3"
+        },
     ]
 };
