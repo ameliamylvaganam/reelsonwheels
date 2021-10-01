@@ -175,5 +175,11 @@ let data = {
             "location": "dickinson, nd",
             "text": "right now one of us is in a v state and the other just left a v city. we'll let you guess who's who . . . lots of love from the road back <3"
         },
+        {
+        "title": "hi nuwfa board",
+            "date": "1 october 2021",
+            "location": "evanston, il",
+            "text": ""
+        },
     ]
 };
